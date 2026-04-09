@@ -1,0 +1,67 @@
+[
+  {
+    "label": "BM25",
+    "n": 294,
+    "avg_latency_ms": 13.223,
+    "recall@1": 0.8299,
+    "mrr@1": 0.8299,
+    "recall@3": 0.9218,
+    "mrr@3": 0.8724,
+    "recall@5": 0.9456,
+    "mrr@5": 0.8779,
+    "recall@10": 0.9558,
+    "mrr@10": 0.8791
+  },
+  {
+    "label": "Keyword",
+    "n": 294,
+    "avg_latency_ms": 2.823,
+    "recall@1": 0.5204,
+    "mrr@1": 0.5204,
+    "recall@3": 0.6497,
+    "mrr@3": 0.5788,
+    "recall@5": 0.6837,
+    "mrr@5": 0.5859,
+    "recall@10": 0.7075,
+    "mrr@10": 0.5892
+  },
+  {
+    "label": "Dense MiniLM Plain (old cache if found)",
+    "n": 294,
+    "avg_latency_ms": 7.418,
+    "recall@1": 0.6905,
+    "mrr@1": 0.6905,
+    "recall@3": 0.8401,
+    "mrr@3": 0.7579,
+    "recall@5": 0.8912,
+    "mrr@5": 0.7695,
+    "recall@10": 0.9252,
+    "mrr@10": 0.7739
+  },
+  {
+    "label": "Dense MiniLM Rich (fresh)",
+    "n": 294,
+    "avg_latency_ms": 6.478,
+    "recall@1": 0.8095,
+    "mrr@1": 0.8095,
+    "recall@3": 0.9184,
+    "mrr@3": 0.8594,
+    "recall@5": 0.9354,
+    "mrr@5": 0.8635,
+    "recall@10": 0.9592,
+    "mrr@10": 0.8669
+  },
+  {
+    "label": "Dense BGE Rich",
+    "n": 294,
+    "avg_latency_ms": 11.011,
+    "recall@1": 0.8946,
+    "mrr@1": 0.8946,
+    "recall@3": 0.9592,
+    "mrr@3": 0.9252,
+    "recall@5": 0.9728,
+    "mrr@5": 0.9286,
+    "recall@10": 0.9864,
+    "mrr@10": 0.9302
+  }
+]

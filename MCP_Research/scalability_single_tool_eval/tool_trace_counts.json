@@ -1,0 +1,1178 @@
+[
+  {
+    "tool": "addCollection",
+    "count": 1
+  },
+  {
+    "tool": "addEquineVaccination",
+    "count": 1
+  },
+  {
+    "tool": "addMemberToTeam",
+    "count": 1
+  },
+  {
+    "tool": "addSongToPlaylist",
+    "count": 1
+  },
+  {
+    "tool": "adjustThermostat",
+    "count": 1
+  },
+  {
+    "tool": "analyseBacklinks",
+    "count": 1
+  },
+  {
+    "tool": "analyzeCompostingProcess",
+    "count": 1
+  },
+  {
+    "tool": "analyzeDataEthics",
+    "count": 1
+  },
+  {
+    "tool": "analyzeDrugDistribution",
+    "count": 1
+  },
+  {
+    "tool": "analyzeLoadBalancing",
+    "count": 1
+  },
+  {
+    "tool": "analyzeStepResponse",
+    "count": 1
+  },
+  {
+    "tool": "assessRisk",
+    "count": 1
+  },
+  {
+    "tool": "assignSupportTicket",
+    "count": 1
+  },
+  {
+    "tool": "auditLogs",
+    "count": 1
+  },
+  {
+    "tool": "blockDevice",
+    "count": 1
+  },
+  {
+    "tool": "bookCoachingSession",
+    "count": 1
+  },
+  {
+    "tool": "bruteForceAttack",
+    "count": 1
+  },
+  {
+    "tool": "calculateBandGap",
+    "count": 1
+  },
+  {
+    "tool": "calculateCriticality",
+    "count": 1
+  },
+  {
+    "tool": "calculateLineLength",
+    "count": 1
+  },
+  {
+    "tool": "calculateNetIncome",
+    "count": 1
+  },
+  {
+    "tool": "calculatePsychologicalIndex",
+    "count": 1
+  },
+  {
+    "tool": "calculateRailwayTrackCapacity",
+    "count": 1
+  },
+  {
+    "tool": "calculateRiskAppetite",
+    "count": 1
+  },
+  {
+    "tool": "calibrateAircraftSensors",
+    "count": 1
+  },
+  {
+    "tool": "changeDatabasePassword",
+    "count": 1
+  },
+  {
+    "tool": "checkAuthentication",
+    "count": 1
+  },
+  {
+    "tool": "checkDatabaseAccess",
+    "count": 1
+  },
+  {
+    "tool": "checkDatabaseStatus",
+    "count": 1
+  },
+  {
+    "tool": "checkDeviceStatus",
+    "count": 1
+  },
+  {
+    "tool": "checkElectricalSafety",
+    "count": 1
+  },
+  {
+    "tool": "checkLogicExpression",
+    "count": 1
+  },
+  {
+    "tool": "checkLoyaltyStatus",
+    "count": 1
+  },
+  {
+    "tool": "checkMemoryCompatibility",
+    "count": 1
+  },
+  {
+    "tool": "checkSSL",
+    "count": 1
+  },
+  {
+    "tool": "checkSecurityStatus",
+    "count": 1
+  },
+  {
+    "tool": "checkWirelessNetwork",
+    "count": 1
+  },
+  {
+    "tool": "completeSpeechTherapyExercise",
+    "count": 1
+  },
+  {
+    "tool": "compressModel",
+    "count": 1
+  },
+  {
+    "tool": "configureNetwork",
+    "count": 1
+  },
+  {
+    "tool": "controlAppliance",
+    "count": 1
+  },
+  {
+    "tool": "controlExoskeletonMovements",
+    "count": 1
+  },
+  {
+    "tool": "controlLight",
+    "count": 1
+  },
+  {
+    "tool": "createBlockchain",
+    "count": 1
+  },
+  {
+    "tool": "createChildrenswearDesign",
+    "count": 1
+  },
+  {
+    "tool": "createEdgeDevice",
+    "count": 1
+  },
+  {
+    "tool": "createIn-AppMessage",
+    "count": 1
+  },
+  {
+    "tool": "createInternetGateway",
+    "count": 1
+  },
+  {
+    "tool": "createIoTDevice",
+    "count": 1
+  },
+  {
+    "tool": "createLeadershipProgram",
+    "count": 1
+  },
+  {
+    "tool": "createMarketingCampaign",
+    "count": 1
+  },
+  {
+    "tool": "createPlaylist",
+    "count": 1
+  },
+  {
+    "tool": "createResearchProposal",
+    "count": 1
+  },
+  {
+    "tool": "createTask",
+    "count": 1
+  },
+  {
+    "tool": "decryptMessage",
+    "count": 1
+  },
+  {
+    "tool": "deleteDatabaseInstance",
+    "count": 1
+  },
+  {
+    "tool": "deleteIndex",
+    "count": 1
+  },
+  {
+    "tool": "deletePlayer",
+    "count": 1
+  },
+  {
+    "tool": "detectMaliciousActivity",
+    "count": 1
+  },
+  {
+    "tool": "determineCauseOfDeath",
+    "count": 1
+  },
+  {
+    "tool": "downloadSoftwareUpdate",
+    "count": 1
+  },
+  {
+    "tool": "endGame",
+    "count": 1
+  },
+  {
+    "tool": "executeEthicalHack",
+    "count": 1
+  },
+  {
+    "tool": "executeSQLInjection",
+    "count": 1
+  },
+  {
+    "tool": "exploitVulnerability",
+    "count": 1
+  },
+  {
+    "tool": "findWaterSource",
+    "count": 1
+  },
+  {
+    "tool": "generateCopy",
+    "count": 1
+  },
+  {
+    "tool": "generateFPGADesign",
+    "count": 1
+  },
+  {
+    "tool": "generateKeyPair",
+    "count": 1
+  },
+  {
+    "tool": "generatePersonalEssay",
+    "count": 1
+  },
+  {
+    "tool": "generateSecurityGuidelines",
+    "count": 1
+  },
+  {
+    "tool": "generateTaxReport",
+    "count": 1
+  },
+  {
+    "tool": "generateVLSICircuitLayout",
+    "count": 1
+  },
+  {
+    "tool": "getAcupuncturePoints",
+    "count": 1
+  },
+  {
+    "tool": "getAerodynamicDrag",
+    "count": 1
+  },
+  {
+    "tool": "getAfricanDiasporaLiterature",
+    "count": 1
+  },
+  {
+    "tool": "getAgriculturalPolicy",
+    "count": 1
+  },
+  {
+    "tool": "getAnalysisApproach",
+    "count": 1
+  },
+  {
+    "tool": "getAnalyticPhilosophyOverview",
+    "count": 1
+  },
+  {
+    "tool": "getAnimalDentalHealth",
+    "count": 1
+  },
+  {
+    "tool": "getAnimationDetails",
+    "count": 1
+  },
+  {
+    "tool": "getAnimationInfo",
+    "count": 1
+  },
+  {
+    "tool": "getAnxietyDisorders",
+    "count": 1
+  },
+  {
+    "tool": "getArtwork",
+    "count": 1
+  },
+  {
+    "tool": "getAssetStatus",
+    "count": 1
+  },
+  {
+    "tool": "getAuthor",
+    "count": 1
+  },
+  {
+    "tool": "getAutobiography",
+    "count": 1
+  },
+  {
+    "tool": "getBiblicalText",
+    "count": 1
+  },
+  {
+    "tool": "getBlock",
+    "count": 1
+  },
+  {
+    "tool": "getBookInfo",
+    "count": 1
+  },
+  {
+    "tool": "getBookRecommendation",
+    "count": 1
+  },
+  {
+    "tool": "getBrowserSize",
+    "count": 1
+  },
+  {
+    "tool": "getBuildingHumidity",
+    "count": 1
+  },
+  {
+    "tool": "getBuildingInfo",
+    "count": 1
+  },
+  {
+    "tool": "getBuildingTemperature",
+    "count": 1
+  },
+  {
+    "tool": "getCalorieBurn",
+    "count": 1
+  },
+  {
+    "tool": "getCarbonEmissions",
+    "count": 1
+  },
+  {
+    "tool": "getCarbonFootprint",
+    "count": 1
+  },
+  {
+    "tool": "getCatalogingInfo",
+    "count": 1
+  },
+  {
+    "tool": "getCateringMenu",
+    "count": 1
+  },
+  {
+    "tool": "getCharitableOrganization",
+    "count": 1
+  },
+  {
+    "tool": "getChickLitBookDetails",
+    "count": 1
+  },
+  {
+    "tool": "getChildDevelopment",
+    "count": 1
+  },
+  {
+    "tool": "getClaimAmount",
+    "count": 1
+  },
+  {
+    "tool": "getCollectionOverview",
+    "count": 1
+  },
+  {
+    "tool": "getCopyEdits",
+    "count": 1
+  },
+  {
+    "tool": "getCountryArea",
+    "count": 1
+  },
+  {
+    "tool": "getCriticalIllnessInsuranceCoverage",
+    "count": 1
+  },
+  {
+    "tool": "getCrossCulturalPsychologyData",
+    "count": 1
+  },
+  {
+    "tool": "getCulturalGeography",
+    "count": 1
+  },
+  {
+    "tool": "getCuratorialStudies",
+    "count": 1
+  },
+  {
+    "tool": "getCybercrimeReport",
+    "count": 1
+  },
+  {
+    "tool": "getCyclingCaloriesBurned",
+    "count": 1
+  },
+  {
+    "tool": "getDiagnosis",
+    "count": 1
+  },
+  {
+    "tool": "getDigitalArt",
+    "count": 1
+  },
+  {
+    "tool": "getDigitalMediaInfo",
+    "count": 1
+  },
+  {
+    "tool": "getDigitalPreservationStrategies",
+    "count": 1
+  },
+  {
+    "tool": "getDrugPrice",
+    "count": 1
+  },
+  {
+    "tool": "getECGSample",
+    "count": 1
+  },
+  {
+    "tool": "getEmotionalResponse",
+    "count": 1
+  },
+  {
+    "tool": "getEnginePower",
+    "count": 1
+  },
+  {
+    "tool": "getEnvironmentalEthicsPrinciples",
+    "count": 1
+  },
+  {
+    "tool": "getEnzymeActivity",
+    "count": 1
+  },
+  {
+    "tool": "getEthicsAndAccountability",
+    "count": 1
+  },
+  {
+    "tool": "getEvolutionaryPsychologyDefinition",
+    "count": 1
+  },
+  {
+    "tool": "getExecutivePolicies",
+    "count": 1
+  },
+  {
+    "tool": "getExperimentalLiterature",
+    "count": 1
+  },
+  {
+    "tool": "getFacadeEngineeringInfo",
+    "count": 1
+  },
+  {
+    "tool": "getFanFiction",
+    "count": 1
+  },
+  {
+    "tool": "getFashionBlogDetails",
+    "count": 1
+  },
+  {
+    "tool": "getFashionPRContacts",
+    "count": 1
+  },
+  {
+    "tool": "getFilmDetails",
+    "count": 1
+  },
+  {
+    "tool": "getFilmInfo",
+    "count": 1
+  },
+  {
+    "tool": "getFilmMarketing",
+    "count": 1
+  },
+  {
+    "tool": "getFireInsuranceStatus",
+    "count": 1
+  },
+  {
+    "tool": "getFirePreventionTips",
+    "count": 1
+  },
+  {
+    "tool": "getFoodNutrition",
+    "count": 1
+  },
+  {
+    "tool": "getFoodSecurityData",
+    "count": 1
+  },
+  {
+    "tool": "getFootballScore",
+    "count": 1
+  },
+  {
+    "tool": "getFrenchLiteratureWorks",
+    "count": 1
+  },
+  {
+    "tool": "getFurnitureDetails",
+    "count": 1
+  },
+  {
+    "tool": "getGameArt",
+    "count": 1
+  },
+  {
+    "tool": "getGameScore",
+    "count": 1
+  },
+  {
+    "tool": "getGenderAndHistory",
+    "count": 1
+  },
+  {
+    "tool": "getGeneticAncestry",
+    "count": 1
+  },
+  {
+    "tool": "getGeoarchaeologicalSite",
+    "count": 1
+  },
+  {
+    "tool": "getGeriatricAssessment",
+    "count": 1
+  },
+  {
+    "tool": "getGlacierSize",
+    "count": 1
+  },
+  {
+    "tool": "getGreenChemistryPrinciples",
+    "count": 1
+  },
+  {
+    "tool": "getHTMLContent",
+    "count": 1
+  },
+  {
+    "tool": "getHVACData",
+    "count": 1
+  },
+  {
+    "tool": "getHadoopJobStatus",
+    "count": 1
+  },
+  {
+    "tool": "getHealthPolicy",
+    "count": 1
+  },
+  {
+    "tool": "getHistoricalAnthropologyData",
+    "count": 1
+  },
+  {
+    "tool": "getImmersiveVRInfo",
+    "count": 1
+  },
+  {
+    "tool": "getImmunizationSchedule",
+    "count": 1
+  },
+  {
+    "tool": "getImmunizationStatus",
+    "count": 1
+  },
+  {
+    "tool": "getImmunoglobulinLevel",
+    "count": 1
+  },
+  {
+    "tool": "getInfectiousDiseaseInfo",
+    "count": 1
+  },
+  {
+    "tool": "getJournalInfo",
+    "count": 1
+  },
+  {
+    "tool": "getJournalismEthicsStandards",
+    "count": 1
+  },
+  {
+    "tool": "getKinshipRelations",
+    "count": 1
+  },
+  {
+    "tool": "getKoreanLiteratureInfo",
+    "count": 1
+  },
+  {
+    "tool": "getLanguageTranslation",
+    "count": 1
+  },
+  {
+    "tool": "getLatinAmericanLiterature",
+    "count": 1
+  },
+  {
+    "tool": "getLeadershipEffectiveness",
+    "count": 1
+  },
+  {
+    "tool": "getLibraryLayout",
+    "count": 1
+  },
+  {
+    "tool": "getLightingInfo",
+    "count": 1
+  },
+  {
+    "tool": "getLikes",
+    "count": 1
+  },
+  {
+    "tool": "getLiteraryHistory",
+    "count": 1
+  },
+  {
+    "tool": "getLoggedInUsers",
+    "count": 1
+  },
+  {
+    "tool": "getMBaaSInfo",
+    "count": 1
+  },
+  {
+    "tool": "getMasculinityIndex",
+    "count": 1
+  },
+  {
+    "tool": "getMedievalLiteratureInfo",
+    "count": 1
+  },
+  {
+    "tool": "getMilkProduction",
+    "count": 1
+  },
+  {
+    "tool": "getMuseumDesign",
+    "count": 1
+  },
+  {
+    "tool": "getNationalSecurityLevel",
+    "count": 1
+  },
+  {
+    "tool": "getNearestPharmacy",
+    "count": 1
+  },
+  {
+    "tool": "getNeurologicalTestResults",
+    "count": 1
+  },
+  {
+    "tool": "getNordicBooks",
+    "count": 1
+  },
+  {
+    "tool": "getOdometer",
+    "count": 1
+  },
+  {
+    "tool": "getPalliativeCareNursingInfo",
+    "count": 1
+  },
+  {
+    "tool": "getPerformanceAnalysis",
+    "count": 1
+  },
+  {
+    "tool": "getPhilosophy",
+    "count": 1
+  },
+  {
+    "tool": "getPhysicalActivityMentalHealth",
+    "count": 1
+  },
+  {
+    "tool": "getPoemText",
+    "count": 1
+  },
+  {
+    "tool": "getPoetryByTitle",
+    "count": 1
+  },
+  {
+    "tool": "getPolicyList",
+    "count": 1
+  },
+  {
+    "tool": "getPortugueseAuthors",
+    "count": 1
+  },
+  {
+    "tool": "getPortugueseBooks",
+    "count": 1
+  },
+  {
+    "tool": "getPostmodernTheory",
+    "count": 1
+  },
+  {
+    "tool": "getPowerOutput",
+    "count": 1
+  },
+  {
+    "tool": "getPredictedPowerConsumption",
+    "count": 1
+  },
+  {
+    "tool": "getPublicDebt",
+    "count": 1
+  },
+  {
+    "tool": "getPublicServices",
+    "count": 1
+  },
+  {
+    "tool": "getPublicityData",
+    "count": 1
+  },
+  {
+    "tool": "getRaceEthnicityInLiterature",
+    "count": 1
+  },
+  {
+    "tool": "getRandomPoetry",
+    "count": 1
+  },
+  {
+    "tool": "getRandomWord",
+    "count": 1
+  },
+  {
+    "tool": "getRecipe",
+    "count": 1
+  },
+  {
+    "tool": "getResearchPaper",
+    "count": 1
+  },
+  {
+    "tool": "getRestaurantDetails",
+    "count": 1
+  },
+  {
+    "tool": "getRestaurantInteriorDesign",
+    "count": 1
+  },
+  {
+    "tool": "getRheumatologyInfo",
+    "count": 1
+  },
+  {
+    "tool": "getRoboticSwimmingPattern",
+    "count": 1
+  },
+  {
+    "tool": "getRomanLiterature",
+    "count": 1
+  },
+  {
+    "tool": "getRomanceNovelDetails",
+    "count": 1
+  },
+  {
+    "tool": "getScandinavianLiterature",
+    "count": 1
+  },
+  {
+    "tool": "getShipLocation",
+    "count": 1
+  },
+  {
+    "tool": "getShipmentStatus",
+    "count": 1
+  },
+  {
+    "tool": "getShortStory",
+    "count": 1
+  },
+  {
+    "tool": "getShowDetails",
+    "count": 1
+  },
+  {
+    "tool": "getSkeletalSystem",
+    "count": 1
+  },
+  {
+    "tool": "getSleepQuality",
+    "count": 1
+  },
+  {
+    "tool": "getSlopeStability",
+    "count": 1
+  },
+  {
+    "tool": "getSnowboardingConditions",
+    "count": 1
+  },
+  {
+    "tool": "getSocialEnterpriseInfo",
+    "count": 1
+  },
+  {
+    "tool": "getSocialImpact",
+    "count": 1
+  },
+  {
+    "tool": "getSocialMediaInfluence",
+    "count": 1
+  },
+  {
+    "tool": "getSocialSupport",
+    "count": 1
+  },
+  {
+    "tool": "getSongs",
+    "count": 1
+  },
+  {
+    "tool": "getSpeciesDistribution",
+    "count": 1
+  },
+  {
+    "tool": "getSteps",
+    "count": 1
+  },
+  {
+    "tool": "getTVShowInfo",
+    "count": 1
+  },
+  {
+    "tool": "getTapDanceSteps",
+    "count": 1
+  },
+  {
+    "tool": "getTechnique",
+    "count": 1
+  },
+  {
+    "tool": "getTelescopeImage",
+    "count": 1
+  },
+  {
+    "tool": "getTemperatureSensorData",
+    "count": 1
+  },
+  {
+    "tool": "getTerrorismStatistics",
+    "count": 1
+  },
+  {
+    "tool": "getThreatIntelligence",
+    "count": 1
+  },
+  {
+    "tool": "getTitle",
+    "count": 1
+  },
+  {
+    "tool": "getTrafficConditions",
+    "count": 1
+  },
+  {
+    "tool": "getUserInfo",
+    "count": 1
+  },
+  {
+    "tool": "getVRConcert",
+    "count": 1
+  },
+  {
+    "tool": "getVRGame",
+    "count": 1
+  },
+  {
+    "tool": "getVRMovie",
+    "count": 1
+  },
+  {
+    "tool": "getVehicleBatteryLevel",
+    "count": 1
+  },
+  {
+    "tool": "getVersion",
+    "count": 1
+  },
+  {
+    "tool": "getVesselInfo",
+    "count": 1
+  },
+  {
+    "tool": "getVideoSurveillanceFeed",
+    "count": 1
+  },
+  {
+    "tool": "getVirtualRealityGame",
+    "count": 1
+  },
+  {
+    "tool": "getYogaPose",
+    "count": 1
+  },
+  {
+    "tool": "grantAccess",
+    "count": 1
+  },
+  {
+    "tool": "lockVehicle",
+    "count": 1
+  },
+  {
+    "tool": "makeDecision",
+    "count": 1
+  },
+  {
+    "tool": "openCurtains",
+    "count": 1
+  },
+  {
+    "tool": "organizeVolunteerEvent",
+    "count": 1
+  },
+  {
+    "tool": "performSecurityAudit",
+    "count": 1
+  },
+  {
+    "tool": "pickObject",
+    "count": 1
+  },
+  {
+    "tool": "placeObject",
+    "count": 1
+  },
+  {
+    "tool": "playMusic",
+    "count": 1
+  },
+  {
+    "tool": "playSong",
+    "count": 1
+  },
+  {
+    "tool": "plotScatter",
+    "count": 1
+  },
+  {
+    "tool": "predictClass",
+    "count": 1
+  },
+  {
+    "tool": "predictFraudRisk",
+    "count": 1
+  },
+  {
+    "tool": "predictProteinFunction",
+    "count": 1
+  },
+  {
+    "tool": "pronounceGreek",
+    "count": 1
+  },
+  {
+    "tool": "recordPatientActivity",
+    "count": 1
+  },
+  {
+    "tool": "registerPlayer",
+    "count": 1
+  },
+  {
+    "tool": "removeStopwords",
+    "count": 1
+  },
+  {
+    "tool": "reportAnimalEthicsViolation",
+    "count": 1
+  },
+  {
+    "tool": "requestArticle",
+    "count": 1
+  },
+  {
+    "tool": "requestDocumentDelivery",
+    "count": 1
+  },
+  {
+    "tool": "resetPassword",
+    "count": 1
+  },
+  {
+    "tool": "runEmulator",
+    "count": 1
+  },
+  {
+    "tool": "runSEM",
+    "count": 1
+  },
+  {
+    "tool": "scanApplication",
+    "count": 1
+  },
+  {
+    "tool": "scanEndpoint",
+    "count": 1
+  },
+  {
+    "tool": "scanNetwork",
+    "count": 1
+  },
+  {
+    "tool": "searchHiddenObjects",
+    "count": 1
+  },
+  {
+    "tool": "searchLawsByName",
+    "count": 1
+  },
+  {
+    "tool": "searchMiddleEasternBooks",
+    "count": 1
+  },
+  {
+    "tool": "secureCommunication",
+    "count": 1
+  },
+  {
+    "tool": "secureDevice",
+    "count": 1
+  },
+  {
+    "tool": "setSmartLockState",
+    "count": 1
+  },
+  {
+    "tool": "setTemperatureThreshold",
+    "count": 1
+  },
+  {
+    "tool": "sniffNetworkTraffic",
+    "count": 1
+  },
+  {
+    "tool": "startGame",
+    "count": 1
+  },
+  {
+    "tool": "startPhoneSupport",
+    "count": 1
+  },
+  {
+    "tool": "testMobileApp",
+    "count": 1
+  },
+  {
+    "tool": "toggleLight",
+    "count": 1
+  },
+  {
+    "tool": "togglePowerOutlet",
+    "count": 1
+  },
+  {
+    "tool": "translateAmharic",
+    "count": 1
+  },
+  {
+    "tool": "translateToCzech",
+    "count": 1
+  },
+  {
+    "tool": "translateToSwedish",
+    "count": 1
+  },
+  {
+    "tool": "troubleshootPlantIssue",
+    "count": 1
+  },
+  {
+    "tool": "turnOnLight",
+    "count": 1
+  },
+  {
+    "tool": "updateCommunityDetails",
+    "count": 1
+  },
+  {
+    "tool": "updateDeviceFirmware",
+    "count": 1
+  },
+  {
+    "tool": "updateEbookPrice",
+    "count": 1
+  },
+  {
+    "tool": "updatePainManagementPlan",
+    "count": 1
+  },
+  {
+    "tool": "updateVolunteerRole",
+    "count": 1
+  },
+  {
+    "tool": "updateWarehouseLocation",
+    "count": 1
+  },
+  {
+    "tool": "verifyHash",
+    "count": 1
+  }
+]

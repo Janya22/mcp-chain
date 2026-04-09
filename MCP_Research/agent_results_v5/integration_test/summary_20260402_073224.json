@@ -1,0 +1,58 @@
+[
+  {
+    "label": "BM25_Static",
+    "n": 5,
+    "TCR": 0.0,
+    "Strict_TCR": 0.0,
+    "TCA_strict": 0.0,
+    "Tool_F1": 0.4,
+    "Order_Acc": 0.0,
+    "Param_Acc": 0.0,
+    "Chain_Valid": 1.0,
+    "Plan_Conf": 1.0,
+    "Low_Conf_Steps": 0.0,
+    "Latency_ms": 68.82151960003284
+  },
+  {
+    "label": "BM25_Metacognitive",
+    "n": 5,
+    "TCR": 0.0,
+    "Strict_TCR": 0.0,
+    "TCA_strict": 0.0,
+    "Tool_F1": 0.6414285714285713,
+    "Order_Acc": 0.0,
+    "Param_Acc": 0.3555555555555555,
+    "Chain_Valid": 0.6,
+    "Plan_Conf": 0.86,
+    "Low_Conf_Steps": 2.8,
+    "Latency_ms": 255403.70246019997
+  },
+  {
+    "label": "Dense_Static",
+    "n": 5,
+    "TCR": 0.0,
+    "Strict_TCR": 0.0,
+    "TCA_strict": 0.0,
+    "Tool_F1": 0.4,
+    "Order_Acc": 0.0,
+    "Param_Acc": 0.0,
+    "Chain_Valid": 1.0,
+    "Plan_Conf": 1.0,
+    "Low_Conf_Steps": 0.0,
+    "Latency_ms": 44.75026460004301
+  },
+  {
+    "label": "Dense_Metacognitive",
+    "n": 5,
+    "TCR": 0.0,
+    "Strict_TCR": 0.0,
+    "TCA_strict": 0.0,
+    "Tool_F1": 0.26,
+    "Order_Acc": 0.0,
+    "Param_Acc": 0.3,
+    "Chain_Valid": 0.6,
+    "Plan_Conf": 0.85,
+    "Low_Conf_Steps": 5.2,
+    "Latency_ms": 285932.81415720016
+  }
+]
